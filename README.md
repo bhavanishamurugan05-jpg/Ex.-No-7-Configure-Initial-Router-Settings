@@ -1,5 +1,5 @@
 ## Ex. No: 7 – Configure Initial Router Settings
-# Date: ___________
+# Date: 24/11/26
 ________________________________________
 # Objective
 To perform basic router configuration tasks in Cisco Packet Tracer including:<br>
@@ -17,6 +17,9 @@ ________________________________________<br>
 ________________________________________<br>
 # Network Topology Diagram
 (Insert your Packet Tracer screenshot here showing Router R1 and PC with console connection)
+
+<img width="877" height="780" alt="Screenshot 2026-11-24 174443" src="https://github.com/user-attachments/assets/f2905baa-ba23-4e38-9b50-feb44cf0f0b0" />
+
 ________________________________________
 # Procedure
 # Part 1: Verify the Default Router Configuration
@@ -80,10 +83,29 @@ ________________________________________
 ________________________________________
 # Output (Attach Screenshots)
 •	Console connection to router<br>
+
+<img width="877" height="780" alt="Screenshot 2026-11-24 174443" src="https://github.com/user-attachments/assets/9b35833c-c016-4fc4-854c-b4af04d5d9c4" />
+
+
 •	Running configuration before and after<br>
+
+<img width="725" height="290" alt="Screenshot 2026-11-24 174707" src="https://github.com/user-attachments/assets/f3f7571c-7b9e-4656-912c-818395a17543" />
+
+
 •	MOTD banner display<br>
+
+<img width="587" height="210" alt="Screenshot 2026-11-24 174713" src="https://github.com/user-attachments/assets/c1896fac-46ee-4a3d-8eb0-bf7794d0e6f0" />
+
 •	Password prompts<br>
+
+<img width="675" height="527" alt="Screenshot 2026-11-24 174759" src="https://github.com/user-attachments/assets/7727b0f8-0142-4310-8482-61c0a2574c8b" />
+
+
 •	Saved configuration in NVRAM and flash<br>
+
+<img width="1901" height="1015" alt="Screenshot 2026-11-24 174819" src="https://github.com/user-attachments/assets/44f34302-d8ae-434f-bf5b-7e57a9d5eb79" />
+
+
 ________________________________________
 # Result
 The router was successfully configured with hostname, banner, encrypted passwords, and secure console access. The configuration was verified and saved to NVRAM and flash, ensuring persistence across reboots.
